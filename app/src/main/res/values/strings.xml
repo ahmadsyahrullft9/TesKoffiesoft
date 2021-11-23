@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TesKoffieSoft</string>
+    <string name="fullname">fullname</string>
+    <string name="firstname">Firstname</string>
+    <string name="firstname_hint">firstname here</string>
+    <string name="email_hint">your email here</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone number</string>
+    <string name="phone_hint">phone number here</string>
+    <string name="password">Password</string>
+    <string name="password_hint">password here</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register_new_account">Register New Account</string>
+</resources>
